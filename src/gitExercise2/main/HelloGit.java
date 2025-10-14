@@ -3,6 +3,6 @@ package gitExercise2.main;
 public class HelloGit {
 	public static void main (String [] args) {
 		System.out.println("Hello git!!!");
-		System.out.println("Useless instruction...");
+		System.out.println("Aggiunta istruzione dal programmatore 1");
 	}
 }
