@@ -4,5 +4,6 @@ public class HelloGit {
 	public static void main (String [] args) {
 		System.out.println("Hello git!!!");
 		System.out.println("Questa è una stampa che crea un conflitto");
+		System.out.println("Questa è una nuova stampa");
 	}
 }
